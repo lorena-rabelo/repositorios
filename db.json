@@ -1,7 +1,7 @@
     {
       "modulos": [
         {
-          "id": 1,
+          "numero": 1,
           "repositorios": [
             {
               "link": "https://github.com/reprograma/T9-HTML-CSS",
@@ -14,7 +14,7 @@
           ]
         },
         {
-          "id": 2,
+          "numero": 2,
           "repositorios": [
             {
               "link": "https://github.com/reprograma/T9-logica-e-js",
@@ -30,7 +30,7 @@
             }]
         },
         {
-          "id": 3,
+          "numero": 3,
           "repositorios": [
             {
               "link": "https://github.com/reprograma/T9-jquery",
@@ -42,7 +42,7 @@
             }]
         },
         {
-          "id": 4,
+          "numero": 4,
           "repositorios": [
             {
               "link": "https://github.com/reprograma/T9-JS-III",
